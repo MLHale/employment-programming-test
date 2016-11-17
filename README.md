@@ -13,6 +13,7 @@ This test is intended to check your basic competency with Ember.js and Django.
 * follow the installation instructions in `https://github.com/MLHale/8470-demo-server-side` to install and configure django to host the demo server-side-api
 * Once installed, run django following the instructions in the server-side repo
 * (optional - will demonstrate you have some server-side python skills) Add a new API endpoint to the API by adding a model, serializer, viewset, and router urls.py entry for your new model
+* When you are done with part 3 below, make a git commit and push your changes to your forked repo
 
 ## Part 3 - Client-side test
 This is the most important part of the test - given that I am hiring someone to focus their efforts in ember. Using your forked client-side repo:
