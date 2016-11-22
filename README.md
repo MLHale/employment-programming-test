@@ -41,3 +41,6 @@ This is the most important part of the test - given that I am hiring someone to 
 * On github, make a new pull request to pull your changes from the branch into your own master branch.
 * Accept the pull request, but DO NOT delete your branch
 * Now make a pull request on `https://github.com/MLHale/8470-demo-client` to pull in your client-side changes (by adding the related commits that you've made)
+
+### Notes
+* The superuser django account/password is admin/qwerty12
